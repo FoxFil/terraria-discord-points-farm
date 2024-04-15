@@ -48,5 +48,9 @@ With this autobot you can earn up to **1600 points / hour**. However, with curre
 
 Also, I do not recommend using the autobot more than 9 hours / day because it would definitely look suspicious if a person farms points for so long haha.
 
+### Libraries required 📚
+- [requests](https://pypi.org/project/requests/)
+- [python-dotenv](https://pypi.org/project/python-dotenv/)
+
 ### Creator 🧡
 It's me, [FoxFil](https://github.com/FoxFil)! Enjoy your auto points hehe 😈
