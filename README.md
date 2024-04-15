@@ -52,5 +52,7 @@ Also, I do not recommend using the autobot more than 9 hours / day because it wo
 - [requests](https://pypi.org/project/requests/)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
 
+If you have [Poetry](https://python-poetry.org) installed, you can use it to run this project. Simply run `poetry install` to install the dependencies and use `poetry run python main.py` to run the project.
+
 ### Creator 🧡
 It's me, [FoxFil](https://github.com/FoxFil)! Enjoy your auto points hehe 😈
